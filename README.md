@@ -39,7 +39,7 @@ Prerequisites
 -npm install
 -npm start
 
-Link to the cloud hosting: "https://taupe-sunburst-f09b90.netlify.app/"
+Link to the cloud hosting: "https://aliyupokemonapp.netlify.app/"
 
 In the project directory, you can run:
 
